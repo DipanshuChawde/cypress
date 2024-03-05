@@ -18,6 +18,7 @@ describe("future date selection in red bus ",function(){
      
       
         cy.log(futureDate)
+        
 
         let year = date2.getFullYear()
         let numberMonth = date2.getMonth()
