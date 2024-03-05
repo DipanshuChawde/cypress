@@ -1,5 +1,5 @@
 node_modules
-UAT2.cy.js
-ut.cy.js
+cypress/e2e/6-myPractice/UAT2.cy.js
 
+cypress/e2e/6-myPractice\ut.cy.js
 
